@@ -1,0 +1,1 @@
+There is no envitonment.ts because api firebase is in there.

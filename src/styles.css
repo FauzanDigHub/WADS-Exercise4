@@ -1,0 +1,53 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+button.btn.btn-dark {
+    border: solid;
+    background: white;
+    color: #000;
+    position: absolute;
+    top: 172px;
+    left: 43px;
+    text-align: center;
+    margin: auto;
+    display: inline-flex;
+}
+
+
+.btn-light {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: black;
+    position: absolute;
+    top: 172px;
+    left: 43px;
+    text-align: center;
+    margin: auto;
+    display: inline-flex;
+}
+img.d-block.w-100 {
+    padding: 101px;
+}
+
+span.carousel-control-next-icon {
+    position: absolute;
+    left: -105px;
+    background-color: black;
+}
+span.carousel-control-prev-icon {
+    position: absolute;
+    right: -105px;
+    background-color: black;
+}
+img.d-block.w-100 {
+    padding: 220px;
+}
+img {
+    width: 411px;
+    height: auto;
+    padding-top: 3px;
+}
+h3 {
+    font-family: 'Rock Salt', cursive;
+    color: white
+}
+
+
